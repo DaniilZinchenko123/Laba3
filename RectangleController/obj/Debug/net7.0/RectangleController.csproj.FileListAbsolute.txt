@@ -1,0 +1,14 @@
+C:\Users\Julia\source\repos\project2\RectangleController\bin\Debug\net7.0\RectangleController.exe
+C:\Users\Julia\source\repos\project2\RectangleController\bin\Debug\net7.0\RectangleController.deps.json
+C:\Users\Julia\source\repos\project2\RectangleController\bin\Debug\net7.0\RectangleController.runtimeconfig.json
+C:\Users\Julia\source\repos\project2\RectangleController\bin\Debug\net7.0\RectangleController.dll
+C:\Users\Julia\source\repos\project2\RectangleController\bin\Debug\net7.0\RectangleController.pdb
+C:\Users\Julia\source\repos\project2\RectangleController\obj\Debug\net7.0\RectangleController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\source\repos\project2\RectangleController\obj\Debug\net7.0\RectangleController.AssemblyInfoInputs.cache
+C:\Users\Julia\source\repos\project2\RectangleController\obj\Debug\net7.0\RectangleController.AssemblyInfo.cs
+C:\Users\Julia\source\repos\project2\RectangleController\obj\Debug\net7.0\RectangleController.csproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\project2\RectangleController\obj\Debug\net7.0\RectangleController.dll
+C:\Users\Julia\source\repos\project2\RectangleController\obj\Debug\net7.0\refint\RectangleController.dll
+C:\Users\Julia\source\repos\project2\RectangleController\obj\Debug\net7.0\RectangleController.pdb
+C:\Users\Julia\source\repos\project2\RectangleController\obj\Debug\net7.0\RectangleController.genruntimeconfig.cache
+C:\Users\Julia\source\repos\project2\RectangleController\obj\Debug\net7.0\ref\RectangleController.dll

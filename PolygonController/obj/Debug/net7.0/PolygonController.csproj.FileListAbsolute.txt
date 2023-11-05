@@ -1,0 +1,28 @@
+C:\Users\Julia\source\repos\project2\PolygonController\bin\Debug\net7.0\PolygonController.exe
+C:\Users\Julia\source\repos\project2\PolygonController\bin\Debug\net7.0\PolygonController.deps.json
+C:\Users\Julia\source\repos\project2\PolygonController\bin\Debug\net7.0\PolygonController.runtimeconfig.json
+C:\Users\Julia\source\repos\project2\PolygonController\bin\Debug\net7.0\PolygonController.dll
+C:\Users\Julia\source\repos\project2\PolygonController\bin\Debug\net7.0\PolygonController.pdb
+C:\Users\Julia\source\repos\project2\PolygonController\obj\Debug\net7.0\PolygonController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\source\repos\project2\PolygonController\obj\Debug\net7.0\PolygonController.AssemblyInfoInputs.cache
+C:\Users\Julia\source\repos\project2\PolygonController\obj\Debug\net7.0\PolygonController.AssemblyInfo.cs
+C:\Users\Julia\source\repos\project2\PolygonController\obj\Debug\net7.0\PolygonController.csproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\project2\PolygonController\obj\Debug\net7.0\PolygonController.dll
+C:\Users\Julia\source\repos\project2\PolygonController\obj\Debug\net7.0\refint\PolygonController.dll
+C:\Users\Julia\source\repos\project2\PolygonController\obj\Debug\net7.0\PolygonController.pdb
+C:\Users\Julia\source\repos\project2\PolygonController\obj\Debug\net7.0\PolygonController.genruntimeconfig.cache
+C:\Users\Julia\source\repos\project2\PolygonController\obj\Debug\net7.0\ref\PolygonController.dll
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\bin\Debug\net7.0\PolygonController.exe
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\bin\Debug\net7.0\PolygonController.deps.json
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\bin\Debug\net7.0\PolygonController.runtimeconfig.json
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\bin\Debug\net7.0\PolygonController.dll
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\bin\Debug\net7.0\PolygonController.pdb
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\obj\Debug\net7.0\PolygonController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\obj\Debug\net7.0\PolygonController.AssemblyInfoInputs.cache
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\obj\Debug\net7.0\PolygonController.AssemblyInfo.cs
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\obj\Debug\net7.0\PolygonController.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\obj\Debug\net7.0\PolygonController.dll
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\obj\Debug\net7.0\refint\PolygonController.dll
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\obj\Debug\net7.0\PolygonController.pdb
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\obj\Debug\net7.0\PolygonController.genruntimeconfig.cache
+C:\Users\Даниил\Desktop\лаба 3\PolygonController\obj\Debug\net7.0\ref\PolygonController.dll
